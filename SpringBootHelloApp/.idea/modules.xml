@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBootHelloApp.iml" filepath="$PROJECT_DIR$/SpringBootHelloApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springinitializr/springinitializr.iml" filepath="$PROJECT_DIR$/../springinitializr/springinitializr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stsspringboot/stsspringboot.iml" filepath="$PROJECT_DIR$/../stsspringboot/stsspringboot.iml" />
+    </modules>
+  </component>
+</project>

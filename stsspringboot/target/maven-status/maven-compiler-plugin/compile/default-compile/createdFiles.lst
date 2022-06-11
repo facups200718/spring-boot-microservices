@@ -1,0 +1,4 @@
+com\skillsoft\stsspringboot\config\MessageProperties.class
+com\skillsoft\stsspringboot\STSSpringBootApplication.class
+com\skillsoft\stsspringboot\controller\GreetingController.class
+META-INF\spring-configuration-metadata.json

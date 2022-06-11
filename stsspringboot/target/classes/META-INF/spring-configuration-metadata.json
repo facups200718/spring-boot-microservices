@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "messages",
+      "type": "com.skillsoft.stsspringboot.config.MessageProperties",
+      "sourceType": "com.skillsoft.stsspringboot.config.MessageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "messages.greeting",
+      "type": "java.lang.String",
+      "sourceType": "com.skillsoft.stsspringboot.config.MessageProperties",
+      "defaultValue": "Good morning "
+    }
+  ],
+  "hints": []
+}
