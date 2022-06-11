@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "custom-config",
+      "type": "testing.config.properties.ConfigProperties",
+      "sourceType": "testing.config.properties.ConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "defaultValue": "Boo!",
+      "name": "messages.greeting",
+      "sourceType": "testing.config.properties.ConfigProperties",
+      "type": "String"
+    }
+  ],
+  "hints": []
+}
